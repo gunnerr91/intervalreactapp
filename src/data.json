@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "back pain",
+    "actionRequired": false
+  },
+  {
+    "id": 2,
+    "name": "therapy",
+    "actionRequired": true
+  },
+  {
+    "id": 3,
+    "name": "broken leg",
+    "actionRequired": true
+  },
+  {
+    "id": 4,
+    "name": "hamstring",
+    "actionRequired": false
+  }
+]
